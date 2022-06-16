@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.first{
+    max-height: 500px;
+    background: url(/images/huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-desktop.svg) no-repeat center;
+     
+ }
+.menu-btn{
+    margin-left: 800px;
+    border-radius: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    border: none;
+    box-shadow:1px 1px 1px 1px  gray ;
+    cursor: pointer;
+ }
+ .img-logo{
+     padding-top: 20px;
+     padding-left: 50px;
+     max-height: 40px;
+ }
+
+.first-body{
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+     
+}
+.img-mockup{
+    
+    max-height: 450px;
+    min-width: 200px;
+    padding-left: 270px;
+    padding-top: 100px;
+    padding-right: 50px;
+     
+      
+}
+
+#ikpa{
+    margin-top: 100px;
+}
+
+p{
+    margin-top: 20px;
+    font-size: small;
+}
+.start{
+    margin-top: 20px;
+    background-color: #A865C9 ;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: small;
+    color: white;
+
+}
+
+.second-section{
+     
+    min-height: 500px;
+}
+.card{
+     
+        
+        box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+        transition: 0.3s;
+        width: 1100px;
+        height: 480px;
+        display: flex;
+        margin-left: 40px;
+        margin-top: 100px;
+        align-items: center;
+         
+         
+          
+      
+}
+
+.img-together{
+     
+    
+        max-height: 450px;
+        min-width: 700px;
+        padding-left: 270px;
+        padding-top: 100px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+        border: none;
+}
+.second-text{
+    padding-left: 100px;
+}
+.img-to{
+    max-height: 450px;
+        min-width: 700px;
+        padding-left: 100px;
+        padding-top: 100px;
+        padding-right: 100px;
+        padding-bottom: 50px;
+}
+.card1{
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+        transition: 0.3s;
+        width: 1100px;
+        height: 480px;
+        display: flex;
+        margin-left: 40px;
+        align-items: center;
+}
+ 
+.card2{
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+        transition: 0.3s;
+        width: 1100px;
+        height: 480px;
+        display: flex;
+        margin-left: 40px;
+        align-items: center;
+}
+.half{
+    background-color: white;
+    height: 150px;
+    width: 400px;
+    margin-left: 350px;
+    margin-top: 400px;
+    padding-bottom: 50px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
+.footer{
+    background-color: #202A44;;
+    height: 400px;
+}
+.last-btn{
+    margin-top: 20px;
+    background-color: #A865C9 ;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: small;
+}
+.last-logo{
+    padding-top: 10px;
+     padding-left: 100px;
+     max-height: 40px;
+     margin-top: 80px;
+}
+.p-footer{
+    color: white;
+    padding-left: 20px;
+}
+.contact1{
+    display: flex;
+}
+.contact2{
+    display: flex;
+}
+.contact3{
+    display: flex;
+}
+.contacts{
+    padding-left: 100px;
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+}
+.about{
+    margin-top: 70px;
+    padding-left: 100px;
+    color: white;
+}
+.career{
+    margin-top: 70px;
+    padding-left: 100px;
+}
+.img1{
+    padding: 20px;
+}
+a{
+    color: white;
+    margin-top: 50px;
+}
+.p-footer{
+    color: white;
+    float: right;
+    padding-right: 90px;
+}
