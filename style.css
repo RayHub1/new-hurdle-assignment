@@ -30,6 +30,7 @@
 .first-body{
     padding-left: 50px;
     display: flex;
+    flex-direction: row;
     align-items: center;
      
 }
@@ -199,4 +200,107 @@ a{
     color: white;
     float: right;
     padding-right: 90px;
+}
+
+
+
+
+
+@media (max-width: 768px) {
+    .first-body{
+        display: flex;
+        flex-direction: column;
+    }
+    .img-mockup{
+    
+        max-height: 300px;
+        min-width: 0px;
+        padding-left: 0px;
+        padding-top: 100px;
+        padding-right: px;
+         
+          
+    }
+    .card{
+     
+        
+        box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+        transition: 0.3s;
+        width: 350px;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+        margin-top: 300px;
+        align-items: center;
+         
+         
+          
+      
+}
+.img-together{
+     
+    
+    max-height: 200px;
+    min-width: 0px;
+     
+    padding-top: 10px;
+     
+    padding-bottom: 50px;
+    padding-right: 250px
+     
+}
+.second-text{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 50px;
+    text-align: center;
+}
+.card1{
+     
+        
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 350px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 0px;
+    align-items: center;
+     
+     
+      
+  
+}
+
+.img-to{
+    max-height: 200px;
+    min-width: 0px;
+     
+    padding-top: 30px;
+     
+    padding-bottom: 50px;
+    padding-right: 150px
+}
+.card2{
+     
+        
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 350px;
+    height: 400px;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-left: 20px;
+    margin-top: 300px;
+    align-items: center;
+     
+     
+      
+  
+}
+    
+
+    
 }
